@@ -16,6 +16,7 @@ const name = "もりた";
 const num = 1;
 
 console.log(ohori);
+
 console.log(name);
 console.log(num);
 
